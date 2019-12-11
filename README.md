@@ -1,2 +1,0 @@
-# tenlikler
-Tenlik
